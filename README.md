@@ -1,6 +1,6 @@
-#Terminal-Based Voice Chatbot with Deepgram and OpenAI#
+**Terminal-Based Voice Chatbot with Deepgram and OpenAI**
 
-Overview
+***Overview***
 
 This is a terminal-based voice chatbot that integrates Deepgram's real-time transcription API for capturing speech and OpenAI's GPT models for generating intelligent responses. It listens to your microphone input, transcribes the speech, and provides AI-powered replies directly in the terminal.
 
